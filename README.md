@@ -5,5 +5,5 @@ Familiarized myself with Java Swing API:
 - Creating Frames and Panels
 - Setting sizes 
 - Creating User Text, Button, Labels, Message Dialogs, etc.
-- Connecting transitioning frames
+- Connecting frames to other frames
       
